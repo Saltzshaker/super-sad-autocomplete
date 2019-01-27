@@ -24,9 +24,11 @@ Big thanks to all of the teachers and students at SFPC, and to all those who con
 
 Special thanks:
 
-Melanie Hoff, for giving me confidence to spam the crowds for their googles + ever thoughtful support & feedback
-Nabil Hassein, for helping get this thing online!
-Everest Pipkin, for helping me do a mini-scrape of Google’s saddest autocomplete entries in the final hours
+– Melanie Hoff, for giving me confidence to spam the crowds for their googles + ever thoughtful support & feedback
+
+– Nabil Hassein, for helping get this thing online!
+
+– Everest Pipkin, for helping me do a mini-scrape of Google’s saddest autocomplete entries in the final hours
 
 ## Contact
 If you have questions or concerns about any of the content on this page, you can contact me at essaltz@gmail.com
