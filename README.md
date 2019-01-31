@@ -6,7 +6,7 @@ published at: https://super-sad-googles.glitch.me/
 ## Sources of Autocomplete Items:
 1. Anonymous queries used with permission from a Google Form: https://docs.google.com/forms/d/1BKbl9iJ4jBJPO24S5VwxgTJ_9Y-4kP7lj2ASBUXXDxY/edit
 
-2. Ad hoc scraping of Google's autocomplete for specific keystokes
+2. Ad hoc scraping of Google's autocomplete for specific keystrokes
 
 3. Reddit & Quora
 https://www.reddit.com/r/AskReddit/comments/6j7i1h/what_are_the_saddest_google_searches_you_can/
