@@ -1,4 +1,4 @@
-# Super Sad Autocomplete
+# Super Sad Googles
 by Emily Saltz for Winter 2019 Code Societies @ The School For Poetic Computation
 published at: https://super-sad-googles.glitch.me/
 
