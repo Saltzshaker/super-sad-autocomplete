@@ -2,6 +2,8 @@
 by Emily Saltz for Winter 2019 Code Societies @ The School For Poetic Computation
 published at: https://super-sad-googles.glitch.me/
 
+Super Sad Googles is an autocomplete search platform populated only with users’ saddest, weirdest, most disturbed searches. The goal of searching Super Sad Googles is not to find an answer, but to find (advertisement-free!) solace in the queries of fellow weirdos. 
+
 
 ## Sources of Autocomplete Items:
 1. Anonymous queries used with permission from a Google Form: https://docs.google.com/forms/d/1BKbl9iJ4jBJPO24S5VwxgTJ_9Y-4kP7lj2ASBUXXDxY/edit
