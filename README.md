@@ -15,6 +15,9 @@ https://www.reddit.com/r/AskReddit/comments/6j7i1h/what_are_the_saddest_google_s
 https://www.reddit.com/r/AskReddit/comments/ajrbku/what_is_the_weirdestmost_patheticloneliest_thing/
 https://www.quora.com/What-do-you-think-is-the-saddest-thing-a-person-could-Google-search
 
+## Submit
+Learn how to search and submit your own sad google to be included anonymously: https://forms.gle/mEFkqbp1MjyX9Qcg6
+
 ## Autocomplete Code:
 Autocomplete base from Trevor Raye's Demonstration of a fully accessible autocomplete/search component in vanilla JavaScript. Based on the WAI-ARIA authoring practices 1.1: https://codepen.io/saltzshaker/pen/LqGOmR. https://codepen.io/trevoreyre/pen/bvwOeL
 
